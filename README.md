@@ -6,7 +6,9 @@
 -->
 
 
-# CLIN-X
+# CLIN-X 
+[(CLIN-X-ES)](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical) & [(CLIN-X-EN)](https://huggingface.co/llange/xlm-roberta-large-english-clinical)
+
 This repository holds the companion code for the system reported in the paper:
 
 "CLIN-X: pre-trained language models and a study on cross-task transfer for concept extraction in the clinical domain" by Lukas Lange, Heike Adel, Jannik Strötgen and Dietrich Klakow.
@@ -107,5 +109,5 @@ For this, we provide the `train_standard_model_architecture.py` script
 The CLIN-X code is open-sourced under the AGPL-3.0 license. See the
 [LICENSE](LICENSE) file for details.
 
-For a list of other open source components included in Joint-Anonymization-NER, see the
+For a list of other open source components included in CLIN-X, see the
 file [3rd-party-licenses.txt](3rd-party-licenses.txt).
