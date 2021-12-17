@@ -13,7 +13,7 @@ This repository holds the companion code for the system reported in the paper:
 
 "CLIN-X: pre-trained language models and a study on cross-task transfer for concept extraction in the clinical domain" by Lukas Lange, Heike Adel, Jannik Strötgen and Dietrich Klakow.
 
-The paper will be published soon. The code allows the users to reproduce and extend the results reported in the paper. 
+The paper wcan be found [here](https://arxiv.org/abs/2112.08754). The code allows the users to reproduce and extend the results reported in the paper. 
 Please cite the above paper when reporting, reproducing or extending the results.
 
     @inproceedings{lange-etal-2021-clin-x,
@@ -23,6 +23,7 @@ Please cite the above paper when reporting, reproducing or extending the results
                        Dietrich Klakow},
           title     = {"CLIN-X: pre-trained language models and a study on cross-task transfer for concept extraction in the clinical domain},
           year={2021},
+          url={https://arxiv.org/abs/2112.08754}
     }
 
 In case of questions, please contact the authors as listed on the paper.
